@@ -26,6 +26,6 @@ laptop$ curl -XGET http://server
 
 ```
 laptop$ ssh -p 80 server
-myhost$ _
+server$ _
 ```
 
